@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Axiochus. A most excellent dialogue, written in Greeke by Plato the phylosopher: concerning the shortnesse and vncertainty of this life, with the contrary ends of the good and wicked. / Translated out of Greeke by Edw. [sic] Spenser. ; Heereto is annexed a sweet speech or oration spoken at the tryumphe at White-hall before her Maiestie, by the page to the right noble Earle of Oxenforde..</title>
+            <title>Axiochus. English. Spenser. 1592.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07987</idno>
+            <idno type="STC">STC 19974.6</idno>
+            <idno type="STC">ESTC S125749</idno>
+            <idno type="EEBO-CITATION">68222550</idno>
+            <idno type="OCLC">ocm 68222550</idno>
+            <idno type="VID">183778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2197:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Axiochus. A most excellent dialogue, written in Greeke by Plato the phylosopher: concerning the shortnesse and vncertainty of this life, with the contrary ends of the good and wicked. / Translated out of Greeke by Edw. [sic] Spenser. ; Heereto is annexed a sweet speech or oration spoken at the tryumphe at White-hall before her Maiestie, by the page to the right noble Earle of Oxenforde..</title>
+                  <title>Axiochus. English. Spenser. 1592.</title>
+                  <author>Spenser, Edmund, 1552?-1599.</author>
+               </titleStmt>
+               <extent>[37] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Cuthbert Burbie, and are to be sold at the middle shop in the Poultry, vnder S. Mildreds Church.,</publisher>
+                  <pubPlace>At London,</pubPlace>
+                  <date>Anno. 1592..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials; title page has printers' device (McK. 297).</note>
+                  <note>Signatures: A-D⁴ (first leaf blank?).</note>
+                  <note>Imperfect: torn pages [35]-[36], with loss of text.</note>
+                  <note>Reproduction of original in: Carl H. Pforzheimer Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philosophy, Ancient --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183778:1"/>
+            <pb facs="tcp:183778:1"/>
+            <p>
+               <hi>Axiochus.</hi>
+            </p>
+            <p>A moſt excellent Dialogue, written in Greeke by <hi>Plato</hi> the Phy<g ref="char:EOLhyphen"/>loſopher: concerning the ſhortneſſe and vncer<g ref="char:EOLhyphen"/>tainty of this life, with the contrary ends of the good and wicked.</p>
+            <p>Tranſlated out of Greeke by <hi>Edw. Spenſer.</hi>
+            </p>
+            <p>
+               <hi>Heereto is annexed a ſweet ſpeech or Oration, ſpoken at the Tryumphe at White-hall before her Maiestie, by the Page to the right noble Earle of Oxenforde.</hi>
+            </p>
+            <figure>
+               <head>CB.</head>
+               <q>SEMPER EADEM</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>AT LONDON, Printed for Cuthbert Burbie, and are to be ſold at the middle ſhop in the Poultry, vnder S. Mildreds Church. <hi>Anno.</hi> 1592.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183778:2"/>
+            <pb facs="tcp:183778:2"/>
+            <head>To the Right Worſhipfull Maiſter <hi>Benedic Barnam,</hi> Eſquire, Al<g ref="char:EOLhyphen"/>derman and Sheriffe of this honorable Citty of London: health and happineſſe.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Orſhipfull Sir, I am bold (by way of dedication) to giue yee this excellent Dialogue of <hi>Plato</hi> the Phyloſopher, for two reaſons. The firſt, that ſo ſinguler a worke, doone by a Heathen man, might as wel flo<g ref="char:EOLhyphen"/>riſh in our vulgare ſpeech, as of long time it hath doone both in Greeke and Latine.</p>
+            <p>The ſeconde, that your counte<g ref="char:EOLhyphen"/>naunce might ſhaddowe it from re<g ref="char:EOLhyphen"/>prochefull ſlaunders, which com<g ref="char:EOLhyphen"/>mon cenſures too lightly bolt out a<g ref="char:EOLhyphen"/>gainſt the beſt endeuours. But con<g ref="char:EOLhyphen"/>cerning
+<pb facs="tcp:183778:3"/> the ſpeciall matter, to wit, my preſumption, without firſt acquain<g ref="char:EOLhyphen"/>ting yee heere-with: thus I protect my ſelfe. My familiarity with yee in your younger yeeres, when ſome<g ref="char:EOLhyphen"/>times wee were Schollers together, and my preſent ioy, to ſee ye ſo hap<g ref="char:EOLhyphen"/>pie a ſucceeder both in your Fathers vertues, place, and Office: imbolde<g ref="char:EOLhyphen"/>ned mee to ſhew a remembrance of the one, yet reuerently, and gladnes of the other as well becommeth me.</p>
+            <p>If in thys ſmall gift, ye make ac<g ref="char:EOLhyphen"/>ceptance both of the one and other, yee ſhall declare no leſſe then each one well diſcernes in ye, and ioy him that euery way is at your co<g ref="char:cmbAbbrStroke">̄</g>maund.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:183778:3"/>
+            <head>To the Reader.</head>
+            <p>THis Dialogue of <hi>Axiochus,</hi> gen<g ref="char:EOLhyphen"/>tle Reader, was tranſlated out of Greeke, by that worthy Scholler and Poet, Maister <hi>Edward Spenſer,</hi> whoſe ſtudies haue &amp; doe carry no mean commendation, becauſe their deſerts are of ſo great esteeme.</p>
+            <p>If heerein thou find not the delight<g ref="char:EOLhyphen"/>full pleaſures his verſes yeeldeth, yet shalt thou receiue matter of as high con<g ref="char:EOLhyphen"/>tentment: to wit, comfort in the verie latest extremitie. For his ſake then be kind in acceptance heereof, and doe him the right he very well deſerueth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:183778:4"/>
+            <pb facs="tcp:183778:4"/>
+            <head>Axiochus of Plato, or a Dialogue of Death, being both ſhort <hi>and very Elegant.</hi>
+            </head>
+            <stage>Socrates. Clinias. Axiochus.</stage>
+            <p>
+               <seg rend="decorInit">A</seg>S I went one day to my common ſchoole <hi>Lynoſargus,</hi> and being in the waye by <hi>Elizeus,</hi> I might heare the voice of one calling a<g ref="char:EOLhyphen"/>loude to me, <hi>Socrates.</hi> And tur<g ref="char:EOLhyphen"/>ning me about to ſee whence it came, I ſaw <hi>Cli<g ref="char:EOLhyphen"/>nias Axiochus</hi> his ſonne, together with <hi>Damon</hi> the Muſitian &amp; <hi>Charmides,</hi> the ſonne of <hi>Glauco</hi> running haſtely toward <hi>Callirrhoe,</hi> whereof the one was a Maiſter and profeſſor of the Arte of Muſicke, &amp; the other by means of great fami<g ref="char:EOLhyphen"/>liarity &amp; acquaintance, did both loue him, and alſo was of him beloued; whereupon I thought good, leauing my ready way, to go meet them, that I might the ſooner vnderſtand his mea<g ref="char:EOLhyphen"/>ning. Then <hi>Clinias</hi> burſting out in teares, O
+<pb facs="tcp:183778:5"/> 
+               <hi>Socrates</hi> (quod he) now is the time when thou maiſt ſhew forth thy long foſtered and famous wiſedome, for my father is euen nowe taken with a grieuous diſeaſe, and drawing neere (as it ſeemeth) to his end, is therwithall grieuouſly troubled, and greatly diſquieted. Howbeit, heeretofore hee was ſo farre from the feare of death, as that he was wont pleaſantly to ſcoffe and ſcorne at thoſe which vſed to portraict the Image of death, painting him with a dreadfull countenance and a grieſly face. VVherefore I beſeech thee O <hi>Socrates,</hi> to go and comfort my father as you were wont to doo: for ſo the ra<g ref="char:EOLhyphen"/>ther being ſtrengthened with your good coun<g ref="char:EOLhyphen"/>ſaile, he ſhall bee able without any grudging or fainting to paſſe through the way of all fleſh, and I with the reſt of his friends and kinſmen will maintaine the yearely memory of that his good end.</p>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>O <hi>Clinias</hi> I will not denie thy ſo reaſonable a requeſt, ſpecially concerning ſuch a matter, as to deny it were great vnkindnes and diſcourte<g ref="char:EOLhyphen"/>ſie: to grant it, perteyneth both to godlineſſe and charitie. Let vs therefore ſpeede vs to him: for if thy father be in ſo ſore taking, there nee<g ref="char:EOLhyphen"/>deth ſpeedines and great haſt.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:183778:5"/>
+               <speaker>Clinias.</speaker>
+               <p>O <hi>Socrates,</hi> I am ſure that my father, aſſoone as hee but beholdeth you, will be much better at eaſe: for his fitte and panges of his ſickneſſe vſe oftentimes to ſurceaſe and be aſſwaged.</p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>But that we might the ſooner come to him, we tooke the way, which lieth beſide the town wall by the Gardeins) for his dwelling was hard by the gates which lyeth toward the <hi>A<g ref="char:EOLhyphen"/>mazons</hi> piller: whither wee comming, found <hi>Axiochus</hi> (which by this time was come to himſelf againe) being indeed ſomewhat ſtrong in his body, but very weake and feeble in his minde, and reſting altogether comfortleſſe: often toſsing him, and tumbling vp and downe in his bed, fetching deepe and dolefull ſighes, with aboundant ſtreames of trickling teares, and wailefull wringing of his handes: whome beholding, O <hi>Axiochus</hi> quoth I, what mea<g ref="char:EOLhyphen"/>neth this? where bee now thoſe haughtie and couragious words, wherewith thou waſt wont to ſcorne and deſpiſe death? where bee thoſe thy dayly and continuall prayſes of vertue and goodneſſe vaniſhed? where alſo is now that thy vnſpeakeable ſtoutneſſe, wherewith thou waſt
+<pb facs="tcp:183778:6"/> woont to confirme thy ſelfe and ſtrengthen o<g ref="char:EOLhyphen"/>thers: for like as a cowardly champion, which at the firſt comming forth as to the skirmiſh, with ſtately ſteps and a vaunting viſage, dooth ſoone after caſt away his Target, and taketh him to flight: euen ſo ſeemeſt thou now, when there is need moſt of al to flinch. Haſt thou no more regarde of thy diuine and excellent na<g ref="char:EOLhyphen"/>ture, that ſometime waſt a man of ſo good life and calling, ſo obedient to reaſons rule? and if there were nothing els, yet ſhould it be ſuffici<g ref="char:EOLhyphen"/>ent to mooue thee, that thou art an <hi>Athenian</hi> borne: and laſtly ſhould mooue thee that com<g ref="char:EOLhyphen"/>mon ſaying, which is worne in all mens mouths; That this our life is a Pilgrimage, which when we haue ended with perfect meaſure and ſted<g ref="char:EOLhyphen"/>faſt trauell: it behoueth vs with like conſtancy of minde, and ioyfulnes of ſpirit, and as it were ſinging a merry Paean, to enter into the purpo<g ref="char:EOLhyphen"/>ſed place of reſt. But thus to languiſh in diſ<g ref="char:EOLhyphen"/>paire and tender harted out-cries, behauing thy ſelfe like a froward Babe, in thee is neither re<g ref="char:EOLhyphen"/>gard of thy wiſedome, nor reſpect of thy age.</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>True indeed O <hi>Socrates,</hi> and that which thou ſayeſt, me ſeemeth right: But it commeth to paſſe I knowe not how, that when I drawe neere vnto preſent daunger, than thoſe great <pb facs="tcp:183778:6"/> and ſtout-hearted wordes which I was wont to caſt at death, doo cloſely flit away and downe are trodden vnderfoote. And then that Tor<g ref="char:EOLhyphen"/>ment or feare, the meſſenger of dreaded daun<g ref="char:EOLhyphen"/>gers, dooth ſundrye wayes wound and gall my grieued minde, whiſpering continually in mine eare that if I bee once depriued of this worldly light, and bereft of goods: I ſhall like a rotten blocke lye in the darkeſome deapth, neither ſeene nor heard of any, beeing reſolued into duſt and wormes.</p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>O <hi>Axiochus</hi> thy talke is very fooliſh, for reaſoning thus without reaſon, and ſeeking to make ſome ſence of ſenceles wordes, thou both doſt and ſayeſt cleane contrary to thy ſelfe, not marking, how at one time thou doſt both com<g ref="char:EOLhyphen"/>plaine for the lacke of ſence which thou ſhalt haue: and alſo art greatly vexed for the rotting of thy carrion Carcaſſe, and deſpoyling of thy former delights: as if by this death thou ſhoul<g ref="char:EOLhyphen"/>deſt not paſſe into another life, or ſhouldeſt be ſo deſpoyled of all ſence and feeling, as thou wert before thou waſt firſt brought into this world. For euen as in thoſe yeares when <hi>Draco</hi> and <hi>Calliſthenes</hi> gouerned the common wealth of <hi>Athens,</hi> thou then waſt vexed with no euil, for in the beginning thou waſt no ſuch as to
+<pb facs="tcp:183778:7"/> whome euill might chance: ſo likewiſe when thou haſt ended this ſtate of mortalitye thou ſhalt no more be afflicted, for thou ſhalt not be in ſuch caſe as that any euill can touch thee. VVherefore ſhake off and caſtaway all theſe trifles and worldly baggage, thus waying in thy minde, that when the frame of this earthly building is diſſolued, and the ſoule being ſing<g ref="char:EOLhyphen"/>led, is reſtored to his naturall place: this bodye which is then left an earthly maſſe and an vn<g ref="char:EOLhyphen"/>reaſonable ſubſtance, is then no more a man. For we are a ſoule, that is to ſay, an immortall creature, beeing ſhut vp and incloſed in an earthly dungeon. VVherewithall nature hath clothed vs, and charged vs with many miſeries, ſo that euen thoſe things which ſeeme pleaſant to vs and ioyfull, are indeed but vaine and ſha<g ref="char:EOLhyphen"/>dowed, beeing mingled and wrapped in many thouſand ſorrowes, and thoſe alſo which vſe to breede vs ſorrowe and heauines, are both ſodaine, and therefore more hardely auoyded, and alſo perdurable, and therefore the more painefull and weariſome. Such be diſeaſes and inflammation of the ſences: Such bee inward griefes and ſickeneſſes, through which it can<g ref="char:EOLhyphen"/>not chooſe but that the ſoule muſt bee alſo diſ<g ref="char:EOLhyphen"/>eaſed, ſince that beeing ſcattered and ſpread through the powres and paſſages of the body, it coueteth the vſe of that open and kinde hea<g ref="char:EOLhyphen"/>uen out of which it was deriued, and thirſteth
+<pb facs="tcp:183778:7"/> for the wonted company &amp; ſurpaſſing delights of that aerernall fellowſhip; whereby it is eui<g ref="char:EOLhyphen"/>dent, that the paſſage from life, is a change from much euill to great good.</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>Since therefore O <hi>Socrates</hi> thou deemeſt this life ſo tedious and troubleſome, why dooſt thou ſtill abide in the ſame? beeing as thou art a man of ſo great wiſedom and experience, whoſe knowledge reacheth farre aboue our common ſence, and beyond the vſuall reaſon of moſt men.</p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>Thou <hi>Axiochus</hi> dooſt not report rightly of me: for thou iudgeſt as the common people of <hi>Athens,</hi> that becauſe you ſee I am giuen to ſeeke and ſearch out many things, therefore I know ſomewhat. But to ſay the truth, I would hartely wiſh, and would the ſame account in great parte of happineſſe, if I knew but theſe common and cuſtomable matters: ſo farre am I from the knowledge of thoſe high and excel<g ref="char:EOLhyphen"/>lent things. For theſe things which I nowe de<g ref="char:EOLhyphen"/>clare, are the ſayinges of <hi>Prodicus</hi> the wiſe man: ſome of them beeing bought for a pen<g ref="char:EOLhyphen"/>nye: ſome for two groats, and other ſome for
+<pb facs="tcp:183778:8"/> foure: For that ſame notable man vſed to teach none without wages, hauing alwaies in his mouth that ſaying of <hi>Epicharmus,</hi> One hand rubbeth another: giue ſomewhat, and ſomewhat take. And it is not long ſithence, that he making a diſcourſe of Philoſophye in the houſe of <hi>Callias</hi> the ſonne of <hi>Hipponicus,</hi> ſuch and ſo many things he ſpake againſt the ſtate of life: that I alſo account life in the num<g ref="char:EOLhyphen"/>ber of thoſe thinges which be of leſſe waight. And euer ſince that time O <hi>Axiochus,</hi> my ſoule gaſpeth after death, daily longing to die.</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>VVhat then was ſaid of <hi>Prodicus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>Marrie I will tell you, as they come to my minde. For what parcell (quod he) of our life is not full of wretchednes? dooth not the ba<g ref="char:EOLhyphen"/>bie euen taken fro<g ref="char:cmbAbbrStroke">̄</g> the mothers wombe, powre out plenty of teares, beginning the firſt ſtep of life with griefe? neither afterward hath it once any breathing or reſting time from ſorrow, be<g ref="char:EOLhyphen"/>ing either diſtreſſed with pouertie, or pinched with colde, or ſcortched with heate, or payned with ſtripes: and whatſoeuer it ſuffereth, vtter once it cannot, but onely with crying dooth
+<pb facs="tcp:183778:8"/> ſhow his minde, hauing no voice but that alone to bewray his griefe: and hauing through ma<g ref="char:EOLhyphen"/>ny woes waded to ſeauen yeares of age, he is yet afflicted with greater griefes, being ſubiect to the tyranny of the Schoolemaiſter and Tu<g ref="char:EOLhyphen"/>tor. And as his yeares encreaſed, ſo is the num<g ref="char:EOLhyphen"/>ber of his guides and gouernours encreaſed, be<g ref="char:EOLhyphen"/>ing afterwards in the handes of Cenſors, Phi<g ref="char:EOLhyphen"/>loſophers and Capitaines. Soone after being waxen a ſtripling he is hemmed in with greater feare, namely of Lyceum, of the Academie, of the Schoole of games, of Rulers, of Roddes: and to ſhut vp all in one worde, of infinite miſe<g ref="char:EOLhyphen"/>ries. And all the time of his youth is ſpent vn<g ref="char:EOLhyphen"/>der ouer-ſeers which are ſet ouer him by the <hi>Areopagits</hi> from which labours young men beeing once freed, are yet ouer-layde with greater cares and more weightie thoughts, tou<g ref="char:EOLhyphen"/>ching the ordering of his ſtate and trade of life: which alſo if they be compared with thoſe that followe, all theſe former troubles may ſeeme but childiſh and indeed babiſh trifles. For herevpon dooth a troope of euils accrew, as be the exploites of warfare, the bitterneſſe of wounds, the continuall labour, skirmiſhes: and then cloſely creepeth on olde Age, in which are heaped all the harmes that pertaine to man<g ref="char:EOLhyphen"/>kinde, whether of weakeneſſe as naturall, or of paine as being externall. And but if one be<g ref="char:EOLhyphen"/>times reſtore his life as a dew debt to death:
+<pb facs="tcp:183778:9" rendition="simple:additions"/> Nature euer waiting as a greedy vſurer, taketh paynes aforehand, ſnatching and pulling from this man his ſight, from that his hearing, from ſom both two ſenſes. And if any fortune lo<g ref="char:cmbAbbrStroke">̄</g>ger then commonly is ſeene in this life to linger, Nature weakening hir powres, dooth looſe, lame, and bow downe all partes of his body, but they whoſe bodies in old age long flouri<g ref="char:EOLhyphen"/>ſheth in minde, as the ſaying is, become twiſe children. And therfore the gods, knowing what is moſt expedient for men, thoſe whome they moſt deerely loue, do ſooneſt take out of this vale of wretchednes. And for this cauſe <hi>Aga<g ref="char:EOLhyphen"/>medes</hi> and <hi>Trophonius,</hi> when they had built a Temple to <hi>Pythius Apollo,</hi> deſiring of the god therefore to grant them the beſt rewarde that might be giuen, ſoone after when they layde them downe to reſt, neuer roſe againe.</p>
+               <p>Likewiſe <hi>Cleobis</hi> &amp; <hi>Biton,</hi> the ſonnes of the <hi>Argiue</hi> Nunne, whe<g ref="char:cmbAbbrStroke">̄</g> their mother had made hir praier to <hi>Iuno,</hi> that to her ſonnes for their great godlines might be giuen ſome ſinguler gift (for that they when her yoake of Oxen were not readily to bee found at the time of ſacrifice, themſelues being yoaked in the charriot, drew their mother to the Temple) vpon this their mothers requeſt, the two ſonnes the next mor<g ref="char:EOLhyphen"/>ning were found dead. It were too long in this place to reherſe the teſtimonies of Poets which in their diuine poeſies do diuinely bewaile and
+<pb facs="tcp:183778:9"/> lament the miſeries of mans life, I will nowe onely in place of many, recite the witneſſe of one, being moſt worthie of memorie, which thus ſaith,
+<q>
+                     <l>How wretched a thred of life haue the gods ſpun,</l>
+                     <l>To mortall men that in this race of life do run<g ref="char:punc">▪</g>
+                     </l>
+                  </q>
+               </p>
+               <p>And againe:
+<q>
+                     <l>Of all that in the earth are ordained by nature,</l>
+                     <l>Than man, is not to bee found</l>
+                     <l>a more wretched creature.</l>
+                  </q>
+               </p>
+               <p>But of <hi>Amphiaraus</hi> what ſaith the Poet?</p>
+               <q>
+                  <l>Him loued higheſt <hi>Iupiter</hi> and <hi>Apollo</hi> deare,</l>
+                  <l>yet could he not reache to his eldeſt yeare.</l>
+                  <l>What thinkeſt thou of him</l>
+                  <l>that taught the childe to crie:</l>
+                  <l>When firſt the Sunne bright day,</l>
+                  <l>he ſeeth with tender eye.</l>
+               </q>
+               <p>But I will let them paſſe, leaſt contrarye to promiſe, I ſeeme to diſcourſe at large, and that in the alleadging of forraine witneſſes. What trade of life I pray you is there, or what occu<g ref="char:EOLhyphen"/>pation, of which you ſhall not find many that complaine and greatly miſlike of their preſent affaires. Let vs ouerrunne the companies of Ar<g ref="char:EOLhyphen"/>tificers &amp; craftſmen, which continually labour from night to night, and yet hardly able to find them neceſſaries to liue, by bewayling theyr bare eſtate, &amp; filling their nightwatchings with
+<pb facs="tcp:183778:10"/> ſorrow and teares. Let vs els ſuruew the life of Marriners and Seafaring men, which make a hole through ſo many dangers, &amp; which as <hi>Bias</hi> ſaid, are neither in the number of the liuing nor yet of the dead, for man being borne to abide vpon the earth, dooth as it were a creature of a double kinde, thruſt himſelfe into the maine ſea, and wholy put his life into the hands of for<g ref="char:EOLhyphen"/>tune. But the life of husbandmen will ſome ſay is pleaſant, and ſo in deed it is: but haue they not a continuall ranckling gall, euer breeding new cauſe of greefe and diſquiet, ſometime by reaſon of drought, ſometime becauſe of raine, otherwhile for ſcortching, oft through blaſting, which parcheth the vntimely eare oftentimes, becauſe of importunate heate or vnmeaſurable colde, miſerably weeping and complaining. But aboue all, that honourable ſtate of gouerne<g ref="char:EOLhyphen"/>ment and principallitie (for I let paſſe many o<g ref="char:EOLhyphen"/>ther things &amp; wrap them vp in ſilence) through how many dangers is it toſſed and turmoiled, for if at any time it haue any cauſe of ioye, it is like vnto a blowne bliſter or a ſwelling ſore, ſoone vp, and ſooner downe: oftentime ſuffe<g ref="char:EOLhyphen"/>ring a foule repulſe, which ſeemeth a thouſand times worſe then death it ſelfe. For who at any time can be bleſſed, that hangeth vpon the wa<g ref="char:EOLhyphen"/>uering will of the witleſſe many? And albeit the Magiſtrate deſerue fauour and praiſe, yet is he but a mocking ſtocke and ſcoffe of the
+<pb facs="tcp:183778:10"/> comminalty, being ſoone after, outcaſt, hiſſed at, condemned, and deliuered to a miſerable death. For where I praye thee O <hi>Axiochus,</hi> (thee I aske that art in office in the common<g ref="char:EOLhyphen"/>wealth) dyed that mightie <hi>Miltiades?</hi> where that victorious <hi>Themiſtocles?</hi> where that vali<g ref="char:EOLhyphen"/>ant <hi>Ephialtes?</hi> where finally thſe noble kings and glorious Emperours, which not long a goe flouriſhed in the common wealth. As for my ſelfe, I could neuer be brought to beare office in the Cittie: for I neuer accounted it as a worthie and lawdable thing to be in authority together with the madding multitude.</p>
+               <p>But <hi>Theramenes</hi> and <hi>Calixenus</hi> of late me<g ref="char:EOLhyphen"/>morie appointing vnder them certaine Magi<g ref="char:EOLhyphen"/>ſtrates, condemned certaine guiltleſſe men, not hearing their cauſes to vndeſerued death. One<g ref="char:EOLhyphen"/>lye withſtood them you, and <hi>Triptolemus,</hi> of thirty thouſand men which were gathered in the aſſemblie.</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>It is as thou ſayeſt <hi>Socrates,</hi> and ſince that time I haue refrained my ſelfe from the ſtage: neither hath any thing euer to mee ſeemed of greater waighte, then the gouerning of the common-wealth, and that is well knowne to them which are in the ſame office. For thou ſpeakeſt theſe things, as hauing out of ſome
+<pb facs="tcp:183778:11"/> high loft onely ouerlooked the troubles and tempeſts of the common-wealth, but we know the ſame more aſſuredly, hauing made proofe therefore in ourſelues, for the common people indeede our freends <hi>Socrates</hi> is vnthankefull, diſdainefull, cruell, enuious, and vnlearned, as that is gathered together of the ſcumme and dregs of the raſcall route, and a ſorte of idle lo<g ref="char:EOLhyphen"/>ſels: whome hee that flattereth and feedeth is much worſe himſelfe than they.</p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>Since therefore O <hi>Axiochus,</hi> thou dooſt ſo greatly diſallow that opinion, which of all o<g ref="char:EOLhyphen"/>ther, is counted moſt honeſt and liberall; what ſhall we iudge of the other trades of life? ſhall wee not thinke that they are likewiſe to bee ſhunned: I remember that I once heard <hi>Pro<g ref="char:EOLhyphen"/>dicus</hi> ſay; that death pertayneth neither to the liuing nor to the dead.</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>How meane you that, <hi>Socrates?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>Mary thus; that death toucheth not them that are, and as for thoſe that are departed out
+<pb facs="tcp:183778:11"/> of this life, are now no more, and therfore death now toucheth them not: for thou art not yet dead, neither if thou deceaſe, ſhall it concerne thee, for thou ſhalt then haue no more. There<g ref="char:EOLhyphen"/>fore, moſt vaine is that ſorrow which <hi>Axiochus</hi> maketh, for the thing which neyther is preſent, nor ſhall euer touch <hi>Axiochus</hi> himſelfe. And euen as fooliſh is it, as if one ſhould complaine and be afraid of <hi>Scylla,</hi> or the Centaures, which were monſters, of Poets broode, which ney<g ref="char:EOLhyphen"/>ther now belong to thee, nor to thy liues end ſhall appertaine; for feare is conceyued of ſuch things as be: but of ſuch things as be not, what feare can there be?</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>Truely <hi>Socrates,</hi> you haue fetched theſe things, out of the riche and moſt aboundant Storehouſe of your woonderfull wiſedome: And thereof riſeth that your mildeneſſe and lightneſſe of ſpeech, which you vſe to allure the mindes of yoong men to vertue. But the loſſe of theſe worldly commodities, dooth not a little vexe and diſquiet my minde; albeit theſe reaſons, which now to my great good liking you haue alledged, ſeeme to mee much more allowable, than thoſe which late you v<g ref="char:EOLhyphen"/>ſed; for my minde is not carryed away with er<g ref="char:EOLhyphen"/>ror through the entiſement of your words, but
+<pb facs="tcp:183778:12"/> perceiueth them well, neither doe thoſe things greatly mooue my minde, which onely haue a colour and ſhadowed ſhowe of truth, being ſet out with flanting pride, and glory of words, but yet truth haue they none.</p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>Thou art farre wide <hi>Axiochus,</hi> and reaſoneſt vnskilfully, ioyning the feeling of euill, with the wante of good things, forgetting thy ſelfe that then thou ſhalt bee in the number of the ſenceleſſe dead. For him indeed which is be<g ref="char:EOLhyphen"/>reft of all good things, dooth the contrary force of euill things greatly vexe. But he which hath no being, can take nor feele nothing, in place of thoſe things whereof he is deſpoiled. Then by what reaſon can any griefe bee conceyued of that thing, which breedeth no ſence nor perſe<g ref="char:EOLhyphen"/>uerance of any thing which hurteth. For if in the beginning O <hi>Axiochus,</hi> thou didſt not, though indeed in vayne, ioyne ſence and fee<g ref="char:EOLhyphen"/>ling to death, moſt vnwiſely, thou ſhouldeſt neuer had cauſe to feare death. But now thou doeſt confound thy ſelfe, and ſpeakeſt contra<g ref="char:EOLhyphen"/>rie to thy ſelfe, oft fearing that thou ſhalt bee depriued of ſoule and ſence together, and oft thinking, that with thy ſence thou ſhalt feele that thing, whereof there is no ſence nor fee<g ref="char:EOLhyphen"/>ling. And to this purpoſe do all thoſe excellent
+<pb facs="tcp:183778:12"/> and notable reaſons of the ſoules immortalitie tend.</p>
+               <p>For it is not the weake nature of mortall man, to raiſe himſelfe to the fulfilling of ſuch high and haughtye matters, as to deſpiſe the ramping rage of wilde beaſts, to ieopard him<g ref="char:EOLhyphen"/>ſelfe in the waſtefull ſea, to builde Citties, and them with lawes and pollicie to eſtabliſh: to looke vp into heauen, and marke the courſe of the Starres; and the wayes of the Sunne and Moone, with their riſings and ſetting, to con<g ref="char:EOLhyphen"/>ſider their eclipſes, their ſpaces, their making of the nights and dayes alike, their double con<g ref="char:EOLhyphen"/>uerſions, to behold the order of the windes, the ſeauen watrie ſtarres, of winter, of ſummer, of ſtormes, with the violent rage of whirle<g ref="char:EOLhyphen"/>windes, and as it were theſe labours of the world, to deliuer to poſteritie, vnleſſe in our mindes there were a certaine diuine ſpirit and vnderſtanding, which could comprehend and reach vnto the ſupernaturall knowledge of ſo great matters.</p>
+               <p>VVherefore nowe O <hi>Axiochus,</hi> thou art not in the way to death, but to immortality, neither ſhalt thou (as thou didſt ſeeme right now to feare) bee bereft of all good, but ſhall hereby enioy true and perfect good: Neither ſhalt thou perceiue ſuch durty pleaſures as are theſe, beeing mingled with the puddle of this ſinfull body, but moſt pure and perfect delight
+<pb facs="tcp:183778:13"/> being deuoid of all contagious trouble. For beeing looſed and deliuered out of the darke<g ref="char:EOLhyphen"/>ſome dungeons of this body, thou ſhalt paſſe to that place where is no lacke nor complaint, but all things full of reſt, and deuoid of euill. Moreouer there is calme and quiet liuing with<g ref="char:EOLhyphen"/>out all knowledge of vnreſt, peaceable and ſtill occupied in beholding the courſe &amp; frame of Nature, and ſtudying Philoſophy, not to pleaſe the idle ignorant and common ſort, but with vpright and vndeceiuable truth.</p>
+            </sp>
+            <sp>
+               <speaker>Axiochus.</speaker>
+               <p>O <hi>Socrates</hi> with this thy gladſome ſpeech thou haſt now brought mee into a cleane con<g ref="char:EOLhyphen"/>trary minde, for ſo farre am I nowe from dread of death, that I am euen ſet on fire and burne with deſire thereof. And that I may ſtay my ſelfe in the ſteppes of them which are counted workemaſters of ſpeech, I will ſay thus much more excellently, Now I begin to behold thoſe high matters, and doo ouerlooke that aeternall and heauenly courſe of things, hauing now ray<g ref="char:EOLhyphen"/>ſed vp my ſelfe out of my weakenes, and being as it were renued and refreſhed of my former malady.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:183778:13"/>
+               <speaker>Socrates.</speaker>
+               <p>If you demaunde of mee another reaſon, and ſigne of the ſoules immortality, I will tell you what the wiſe man <hi>Gobrias</hi> ſhewed me: He ſaide that at what time <hi>Xerxes</hi> conuayed his huge Army into <hi>Greece,</hi> his Grandfather which was of the ſame name, was ſent into <hi>Delos</hi> to defende that Iland in which were two Gods borne. In the ſame Iland that his Grandfather learned out of certaine braſen Tables which <hi>Opis</hi> and <hi>Hecuergus</hi> had brought out of the Northerne Countries, That the ſoule aftertime it is diſſolued from the body paſſeth into a cer<g ref="char:EOLhyphen"/>taine darkeſome place, a Coaſt that lyeth vn<g ref="char:EOLhyphen"/>der the earth wherein is <hi>Plutoes</hi> Pallace no leſſe than <hi>Iupiters</hi> kingdome: For the earth be<g ref="char:EOLhyphen"/>ing equally ballanced in the middeſt of the world, and the compaſſe thereof beeing round as a ball, that the one halfe Sphere thereof is al<g ref="char:EOLhyphen"/>lotted to the higher Gods, and the other halfe to the infernall powres; betwixt whom there is ſuch kindred and allyance, that ſome bee bro<g ref="char:EOLhyphen"/>thers, and other ſome brothers children. But the entry of the way which leadeth to <hi>Plutoes</hi> kingdome is fenced with iron gates, and faſte<g ref="char:EOLhyphen"/>ned with braſen bolts: which when a man hath opened, he is entertained of the Riuer <hi>A<g ref="char:EOLhyphen"/>cheron;</hi> next which is <hi>Cocytus:</hi> which flouds being ouerpaſſed, hee muſt come before <hi>Mi<g ref="char:EOLhyphen"/>nos</hi> and <hi>Rhadamanthus,</hi> the merciles Iudges:
+<pb facs="tcp:183778:14"/> which place is called the plain of Truth where the Iudges ſit examining euery one that com<g ref="char:EOLhyphen"/>meth thither how he hath liued, and with what trade or manner of life hee hath inhabited his mortall body, with whom there is no place for lies; nor refuge for excuſes. Then they which in their life time were inſpired and led with a good Angell, are receiued into the houſhold of the bleſſed, where all ſeaſons flowe with abun<g ref="char:EOLhyphen"/>dance of all fruits, where from the ſiluer ſprings doo calmely run the Chriſtall ſtreames, where the flouriſhing medowes are cloathed with chaungeable Mantles of glorious colours, where are famous Schooles of renowmed Phi<g ref="char:EOLhyphen"/>loſophers, goodly companies of diuine Poets, trim ſorts of Dauncers, heauenly Muſicke, great banquets furniſhed with coſtly cates, Ta<g ref="char:EOLhyphen"/>bles abounding with all bounty, delights with<g ref="char:EOLhyphen"/>out all care, and pleaſures without all paine: For the Inhabitants thereof are neither touched with force of cold, nor payned with exceſſe of heate, but the moderate Aire breatheth on them mildly and calmely, being, lightned with the gentle Sunnebeames.</p>
+               <p>In this place, and in the Elyſian fields, they which haue taken holy orders are highly ad<g ref="char:EOLhyphen"/>uanced and reuerenced, dayly miniſtring the vnſearcheable rytes of Religion. VVhere<g ref="char:EOLhyphen"/>fore then ſhouldeſt thou doubt but to be made partaker of the ſame honor, being one of the
+<pb facs="tcp:183778:14"/> ſeede of that heauenly race: It is an old ſaying and rightly reported, that <hi>Hercules</hi> and <hi>Bac<g ref="char:EOLhyphen"/>chus</hi> going downe to hell, they were inſtituted in holly orders, and that they were emboldned to goe thither of the Goddeſſe <hi>Eleuſina.</hi> But they which being wrapped in wickednes haue led an vngodly life, are ſnatched vp by the Fu<g ref="char:EOLhyphen"/>ries, and by them carried through the loweſt hell into deepe darkenes and vtter confuſion, where the place and abode of the wicked is, and where the three ſcore daughters of <hi>Danaus</hi> dwell, whoſe puniſhment is continually to fill a ſort of bottomleſſe veſſels, where alſo is to bee ſeene the vnquencheable thirſt of <hi>Tantalus,</hi> the gnawen Entrailes of <hi>Titius,</hi> and the endles ſtone of <hi>Siſip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us,</hi> whoſe end beginneth a newe labour. There bee they rent of wilde beaſts, continually ſcorched with burning Lamps, pai<g ref="char:EOLhyphen"/>ned with all kind of torments, and afflicted with endleſſe pennance. Theſe thinges I remember that I haue heard <hi>Gobrias</hi> tell; but you <hi>Axio<g ref="char:EOLhyphen"/>chus</hi> may iudge of them as you liſt. Only this I know and aſſuredly hold faſt, that euery mans minde is immortall and paſſing out of this life feeleth no griefe nor ſorrowe. VVherefore O <hi>Axiochus</hi> whether thou be carryed into thoſe higheſt Pallaces or lower Vawts, needes muſt it bee that thou ſhalt bee bleſſed becauſe thou haſt liued well and godly.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:183778:15"/>
+               <speaker>Axiochus.</speaker>
+               <p>Minding to haue ſaid ſomething vnto thee (O <hi>Socrates</hi>) I am impeached with baſhfull ſhame: For ſo farre am I now from the horror and dread of death, that I continually couet the time thereof: So hath thy heauenly and comfortable ſpeeches pierced and relieued my faint heart. And nowe loath I this life, and ſcorne the delights thereof, as that ſhall from henceforth paſſe into a better abode. And now by my ſelfe alone will I recount theſe thy no<g ref="char:EOLhyphen"/>table ſayings, but I pray thee (O <hi>Socrates</hi>) af<g ref="char:EOLhyphen"/>ter noone reſort to me againe.</p>
+            </sp>
+            <sp>
+               <speaker>Socrates.</speaker>
+               <p>I will doo as you ſay, and now will I returne to walk in my ſchool <hi>Lynoſargus</hi> from whence I was hither called.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183778:15"/>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:183778:16"/>
+            <pb facs="tcp:183778:16"/>
+            <head>
+               <g ref="char:leaf">❧</g> A ſpeech ſpoken at the Tryumph before the Queenes moſt excellent Maieſtie, by the Page to the right noble Champion, the Earle of Oxenford.</head>
+            <argument>
+               <p>By the Tilt ſtoode a ſtatelie Tent of Orenge tawny Taffata, curiouſly imbroydered with Siluer, &amp; pendents on the Pinacles very ſightly to behold. From forth this Tent came the noble Earle of Oxenford in rich gilt Armour, and ſate down vnder a great high Bay-tree, the whole ſtocke, branches and leaues whereof, were all gilded o<g ref="char:EOLhyphen"/>uer, that nothing but Gold could be diſcerned. By the Tree ſtoode twelue tilting ſtaues, all which likewiſe were gilded cleane ouer. After a ſolemne ſound of moſt ſweet Muſique, he moun<g ref="char:EOLhyphen"/>ted on his Courſer, verie richly caparaſond, whe<g ref="char:cmbAbbrStroke">̄</g> his page aſcending the ſtaires where her High<g ref="char:EOLhyphen"/>neſſe ſtood in the window, deliuered to her by ſpeech this Oration following.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Knight (moſt fayre and fortunate Princeſſe) liuing of a long time in a Groue, where e<g ref="char:EOLhyphen"/>uery graft beeing greene, hee thought euery roote to be preci<g ref="char:EOLhyphen"/>ous, found at the laſt as great diuerſity of trou<g ref="char:EOLhyphen"/>bles as of Trees: the Oake to be ſo ſtubborne that nothing could cauſe it to bend; the Reede
+<pb facs="tcp:183778:17"/> ſo ſhaking, that euery blaſt made it to bow; the Iuniper ſweete, but too lowe for ſuccour; the Cipreſſe faire, but without fruite; the Walnut tree to be as vnholſome to lye vnder, as the bud of the Figge-tree vnpleaſant to taſte; the Tree that bore the beſt fruite, to be fulleſt of Cater<g ref="char:EOLhyphen"/>pillers, and all to be infected with wormes; the Aſhe for Rauens to breede; the Elme to build; the Elder to be full of pith &amp; no perfection, and all Trees that were not fertill, to be fit for fuell, and they that were fruitfull, but for the tyme to pleaſe the fancy. Which trying, he forſooke the wood, and liued a while in the plaine Champi<g ref="char:EOLhyphen"/>on: where, how he was tormented, it vvere too long to tell, but let this ſuffiſe, that hee was troubled, when euery Moate fell in his eye in the day, and euery Ant diſquieted him in the night: where, if the wind blew, he had nothing to ſhielde him but heade and ſhoulders, if the Sunne blazed, he could find the ſhadow of no<g ref="char:EOLhyphen"/>thing but himſelfe, when ſeeing himſelfe ſo deſtitute of helpe, he becam deſperate of hope.</p>
+            <p>Thus wandering a vvearie way, hee eſpyed at the laſt a Tree ſo beautiful, that his eyes were daſeled with the brightneſſe, which as hee was going vnto, he met by good fortune a Pilgrime or Hermit, he knew not well, who being appa<g ref="char:EOLhyphen"/>relled as though hee were to trauaile into all Countries, but ſo aged as though hee were to liue continually in a Caue. Of this olde Syre he
+<pb facs="tcp:183778:17"/> demaunded what Tree it was, who taking this Knight by the hand, began in theſe words both to vtter the name and nature of the Tree.</p>
+            <p>This Tree fayre Knight is called the Tree of the Sunne, whoſe nature is alwaies to ſtand alone, not ſuffering a companion, beeing it ſelfe without compariſon: of which kind, there are no more in the earth then Sunnes in the Ele<g ref="char:EOLhyphen"/>ment. The worlde can holde but one Phenix, one <hi>Alexander,</hi> one Sun-Tree, in top contra<g ref="char:EOLhyphen"/>rie to all Trees: it is ſtrongeſt, &amp; ſo ſtatelie to behold, that the more other ſhrubs ſhrinke for duetie, the higher it exalteth it ſelfe in Maie<g ref="char:EOLhyphen"/>ſtie.</p>
+            <p>For as the cleere beames of the Sunne, cauſe all the ſtarres to loſe theyr light, ſo the bright<g ref="char:EOLhyphen"/>neſſe of thys golden Tree, eclipſeth the com<g ref="char:EOLhyphen"/>mendation of all other Plants. The leaues of pure Golde, the barke no worſe, the buddes pearles, the body Chriſocolla, the ſap Nectar, the roote ſo noble as it ſpringeth fro<g ref="char:cmbAbbrStroke">̄</g> two Tur<g ref="char:EOLhyphen"/>keies, both ſo perfect, as neither can ſtaine the other, each contending once for ſuperioritie, and now both conſtrained to be equals. <hi>Veſtas</hi> bird ſitteth in the midſt, whereat <hi>Cupid</hi> is euer drawing, but dares not ſhoote, beeing amazed at that princely and perfect Maieſtie.</p>
+            <p>The ſhaddowes hath as ſtrange properties as contrarieties, cooling thoſe that be hoat with a temperate calme, and heating thoſe that be
+<pb facs="tcp:183778:18"/> colde with a moderate warmth, not vnlike that Sunne whereof it taketh the name, which mel<g ref="char:EOLhyphen"/>teth Waxe, and hardeneth Clay, or pure fyre, which cauſeth the gold to ſhine, and the ſtraw to ſmother, or ſweete perfumes, which feedeth the Bee, and kylleth the Betell.</p>
+            <p>No poyſon commeth neere it, nor any ver<g ref="char:EOLhyphen"/>mine that hath a ſting. VVho ſo goeth about to loppe it, launceth himſelfe, and the Sunne wyll not ſhyne on that creature that caſteth a falſe eye on that Tree, no wind can ſo much as wagge a leafe, it ſpringeth in ſpite of <hi>Au<g ref="char:EOLhyphen"/>tumnus,</hi> and continueth all the yeere as it were <hi>
+                  <g ref="char:V">Ʋ</g>er.</hi>
+            </p>
+            <p>If Syr Knight you demaunde what fruite it beareth, I aunſwere, ſuch, as the elder it is, the younger it ſeemeth, alway rype, yet euer greene. Vertue Syr Knight, more nouriſhing to honeſt thoughts, then the beauty delightfull to amorous eyes; VVhere the Graces are as thicke in vertue, as the Grapes are on the Vine.</p>
+            <p>Thys fruite fatteth, but neuer feedes, wher<g ref="char:EOLhyphen"/>with thys Tree is ſo loaden, as you cannot touch that place which vertue hath not tempe<g ref="char:EOLhyphen"/>red. If you enquire whether any grafts may be gotten, it were as much as to craue ſlyppes of the Sunne, or a Moulde to caſt a newe Moone. To conclude, ſuch a Tree it is, as he that hath longeſt knowne it, can ſooner meruaile at it,
+<pb facs="tcp:183778:18"/> then diſcribe it, for the further hee wadeth in the prayſe, the ſhorter he commeth of the per<g ref="char:EOLhyphen"/>fection.</p>
+            <p>Thys olde man hauing ended, ſeeming to want wordes to expreſſe ſuch worthineſſe, he went to hys home, and the Knight to his Sunne Tree, where kiſsing the grounde wyth hu<g ref="char:EOLhyphen"/>militie, the princely tree ſeemed with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to bidde him welcome. But the more <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>zed on the beautie, the leſſe able he w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dure the brightneſſe, like vnto thoſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>king with a ſtedfaſt eye to behold th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bring a darke dazeling ouer theyr ſight.</p>
+            <p>At the laſt, reſting vnder the ſhaddowe, he felt ſuch content, as nothing coulde bee more comfortable. The dayes he ſpent in vertuous delights, the night ſlypped away in golden Dreames, hee was neuer annoyed with vene<g ref="char:EOLhyphen"/>mous enemies, nor diſquieted with idle cogita<g ref="char:EOLhyphen"/>tions.</p>
+            <p>In ſo much, that finding all felicity in that ſhade, and all ſecurity in that Sunne: hee made a ſollemne vowe, to incorporate hys harte into that Tree, and ingraft hys thoughts vp<g ref="char:EOLhyphen"/>pon thoſe vertues. Swearing, that as there is but one Sunne to ſhine ouer it, one roote to giue life vnto it, one toppe to maintaine Maie<g ref="char:EOLhyphen"/>ſtie: ſo there ſhould be but one Knight, eyther to lyue or die for the defence thereof.</p>
+            <pb facs="tcp:183778:19"/>
+            <p>Where-vppon, hee ſwore himſelfe onely to be the Knight of the Tree of the Sunne, whoſe life ſhould end before his loyaltie.</p>
+            <p>Thus cloyed with content, hee fell into a ſweete ſlumber, whoſe ſmyling countenaunce ſhewed him voyde of all care. But hys eyes were ſcarce cloſe, d when hee ſeemed to ſee dy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ermining the Tree behinde him, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuſpecting the Knight to gyue the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, myght haue puniſhed him in her <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fayling of theyr pretence, and ſeeing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>we they ſtrooke to light vppon their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wne braines, they threatned him by violence, whom they could not match in vertue.</p>
+            <p>But he claſping the Tree, as the onely An<g ref="char:EOLhyphen"/>chor of hys truſt, they coulde not ſo much as mooue him from hys cauſe, whom they deter<g ref="char:EOLhyphen"/>mined to martyr without colour. VVhereup<g ref="char:EOLhyphen"/>pon, they made a challenge to winne the Tree by right, and to make it good by Armes. At which ſaying, the Knight beeing glad to haue his trueth tryed wyth hys valoure, for ioy a<g ref="char:EOLhyphen"/>waked.</p>
+            <p>And nowe (moſt vertuous and excellent Princeſſe) ſeeing ſuch tumults towards for his Tree, ſuch an Honourable preſence to iudge, ſuch worthy Knights to Iuſte: I cannot tel whe<g ref="char:EOLhyphen"/>ther his perplexitie or his pleaſure be the grea<g ref="char:EOLhyphen"/>ter. But this hee will auouch at all aſſayes, him<g ref="char:EOLhyphen"/>ſelfe
+<pb facs="tcp:183778:19"/> to be the moſt loyall Knight of the Sun-tree, which who ſo gaine-ſayeth, hee is heere preſt, eyther to make him recant it before hee runne, or repent it after. Offering rather to die vppon the poynts of a thouſande Launces, then to yeeld a iote in conſtant loyaltie.</p>
+            <trailer>
+               <hi>FINIS.</hi> The ſpeech beeing ended, with great honour hee ran, and valiantly brake all the twelue ſtaues. And after the finiſhing of the ſports: both the rich Bay-tree, and the beautifull Tent, were by the ſtanders by, torne and rent in more pee<g ref="char:EOLhyphen"/>ces then can be numbred.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
